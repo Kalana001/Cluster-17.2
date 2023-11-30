@@ -1,3 +1,4 @@
+//Database Connection Check
 <?php if(!isset($conn)){ include 'db_connect.php'; } ?>
 <style>
   textarea{
