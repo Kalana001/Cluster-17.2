@@ -61,7 +61,7 @@ header("location:index.php?page=parcel_list");
 
               
                 <div class="one-form">
-                  <a href="form.php" target="_blank">One Time Order </a>
+                  <a href="form.php" target="_blank"> </a>
                 </div>
                 
     
